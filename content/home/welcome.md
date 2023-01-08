@@ -23,7 +23,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: ecuador_river_red.jpeg
+        media: ecuador_river_red.jpg
       # link:
       #   icon: file
       #   icon_pack: fas
