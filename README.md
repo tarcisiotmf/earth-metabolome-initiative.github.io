@@ -1,2 +1,6 @@
-# earth-metabolome-initiative.github.io
-The EMI website
+# EMI Website
+
+ https://earth-metabolome-initiative.github.io/
+ 
+ 
+ https://www.earthmetabolome.org/
