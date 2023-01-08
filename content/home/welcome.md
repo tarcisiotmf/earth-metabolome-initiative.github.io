@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 🪴 What is the Digital Botanical Gardens Initiative ?
-      content: _An Open Science initiative to explore and establish robust and scalable workflows for the digitization of chemo- and biodiversity, at the global scale in wild ecosystems._
+    - title: 🌍 What is the Earth Metabolome Initiative ? 🌎
+      content: _A global effort to profile the metabolic content of all currently known species on our planet_
       font_size: XS
       align: center
       background:
