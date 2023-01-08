@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 🌍 What is the Earth Metabolome Initiative ? 🌎
+    - title: 🌍 The Earth Metabolome Initiative 🌎
       content: _A global effort to profile the metabolic content of all currently known species on our planet_
       font_size: XS
       align: center
@@ -24,13 +24,13 @@ content:
         color: '#666'
         brightness: 0.7
         media: dbgi_metasequoia.jpeg
-      link:
-        icon: file
-        icon_pack: fas
-        text: Read the DBGI Green Paper
-        url: http://www.dbgi.org/dbgi-green-paper/
+      # link:
+      #   icon: file
+      #   icon_pack: fas
+      #   text: Read the DBGI Green Paper
+      #   url: http://www.dbgi.org/dbgi-green-paper/
     - title: 👋 Who are we ?
-      content: Meet the DBGI consortium !
+      content: Meet the EMI consortium !
       align: right
       background:
         position: center
