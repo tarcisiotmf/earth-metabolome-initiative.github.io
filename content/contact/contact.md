@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: dbgi@protonmail.ch
+  email: contact@earthmetabolome.org
   # phone: 
   # address:
   #   street: 
