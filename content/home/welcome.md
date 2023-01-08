@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 🌍 The Earth Metabolome Initiative 🌎
+    - title: 🌎 The Earth Metabolome Initiative 🌍
       content: _A global effort to profile the metabolic content of all currently known species on our planet_
       font_size: XS
       align: center
@@ -23,7 +23,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: dbgi_metasequoia.jpeg
+        media: ecuador_river_red.jpeg
       # link:
       #   icon: file
       #   icon_pack: fas
