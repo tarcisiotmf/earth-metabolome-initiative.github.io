@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Wishart | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/david-wishart/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/david-wishart/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Wishart</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/david-wishart/avatar_hu71e650f58fd76cdeabb9c0e2bf073d7c_8946_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>David Wishart</title>
+      <link>https://www.earthmetabolome.org/author/david-wishart/</link>
+    </image>
+    
+  </channel>
+</rss>

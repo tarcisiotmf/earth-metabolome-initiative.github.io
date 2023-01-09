@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Murray-Rust | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/peter-murray-rust/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/peter-murray-rust/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Murray-Rust</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/peter-murray-rust/avatar_hub8c9337ec7b5220603e53c571ea545aa_7234_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Peter Murray-Rust</title>
+      <link>https://www.earthmetabolome.org/author/peter-murray-rust/</link>
+    </image>
+    
+  </channel>
+</rss>

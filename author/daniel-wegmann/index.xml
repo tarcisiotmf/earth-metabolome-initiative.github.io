@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Wegmann | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/daniel-wegmann/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/daniel-wegmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Wegmann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/daniel-wegmann/avatar_hu4c3ec72876c329ed7ea7c5929899277f_7162_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Daniel Wegmann</title>
+      <link>https://www.earthmetabolome.org/author/daniel-wegmann/</link>
+    </image>
+    
+  </channel>
+</rss>

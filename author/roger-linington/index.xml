@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roger Linington | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/roger-linington/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/roger-linington/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roger Linington</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/roger-linington/avatar_hu2411a46626f594d51b04be09f9594a09_6632_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Roger Linington</title>
+      <link>https://www.earthmetabolome.org/author/roger-linington/</link>
+    </image>
+    
+  </channel>
+</rss>

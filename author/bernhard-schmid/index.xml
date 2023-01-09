@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bernhard Schmid | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/bernhard-schmid/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/bernhard-schmid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bernhard Schmid</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/bernhard-schmid/avatar_hu22b5e3931468bd7dcf3f597722d54221_11641_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Bernhard Schmid</title>
+      <link>https://www.earthmetabolome.org/author/bernhard-schmid/</link>
+    </image>
+    
+  </channel>
+</rss>

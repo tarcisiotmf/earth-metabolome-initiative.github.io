@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Litaudon | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/marc-litaudon/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/marc-litaudon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Litaudon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/marc-litaudon/avatar_hu1f3d9dc539b3944cf462cb833d16af75_7163_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Marc Litaudon</title>
+      <link>https://www.earthmetabolome.org/author/marc-litaudon/</link>
+    </image>
+    
+  </channel>
+</rss>

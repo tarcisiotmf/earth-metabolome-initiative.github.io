@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rob Waterhouse | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/rob-waterhouse/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/rob-waterhouse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rob Waterhouse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/rob-waterhouse/avatar_hu765a21e0c6294497a22f46a42c148b47_7323_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Rob Waterhouse</title>
+      <link>https://www.earthmetabolome.org/author/rob-waterhouse/</link>
+    </image>
+    
+  </channel>
+</rss>

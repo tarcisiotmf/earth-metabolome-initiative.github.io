@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Luc Wolfender | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/jean-luc-wolfender/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/jean-luc-wolfender/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean-Luc Wolfender</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/jean-luc-wolfender/avatar_hu72d35a2f77246d114cefa21623b0acd6_9753_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Jean-Luc Wolfender</title>
+      <link>https://www.earthmetabolome.org/author/jean-luc-wolfender/</link>
+    </image>
+    
+  </channel>
+</rss>

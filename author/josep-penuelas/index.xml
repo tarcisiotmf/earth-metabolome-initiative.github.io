@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josep Peñuelas | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/josep-penuelas/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/josep-penuelas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Josep Peñuelas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/josep-penuelas/avatar_hu88dcfa5e48f43284461f20ac22a66fd7_6566_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Josep Peñuelas</title>
+      <link>https://www.earthmetabolome.org/author/josep-penuelas/</link>
+    </image>
+    
+  </channel>
+</rss>

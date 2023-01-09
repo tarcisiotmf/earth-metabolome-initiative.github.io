@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicola Zamboni | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/nicola-zamboni/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/nicola-zamboni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicola Zamboni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/nicola-zamboni/avatar_hu49b8ba789a02229b5a6857d7c0ab6e65_5920_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Nicola Zamboni</title>
+      <link>https://www.earthmetabolome.org/author/nicola-zamboni/</link>
+    </image>
+    
+  </channel>
+</rss>

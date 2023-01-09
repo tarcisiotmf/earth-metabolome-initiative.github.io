@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olivier Thomas | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/olivier-thomas/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/olivier-thomas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olivier Thomas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/olivier-thomas/avatar_hub85db7886dd7258dbce89a4d3dfc0f67_6449_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Olivier Thomas</title>
+      <link>https://www.earthmetabolome.org/author/olivier-thomas/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caroline Müller | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/caroline-muller/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/caroline-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caroline Müller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/caroline-muller/avatar_hufb7ca9348865de0f384c02f520b04f99_28024_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Caroline Müller</title>
+      <link>https://www.earthmetabolome.org/author/caroline-muller/</link>
+    </image>
+    
+  </channel>
+</rss>
