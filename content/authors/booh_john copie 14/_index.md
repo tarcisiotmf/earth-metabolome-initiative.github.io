@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Emmanuel Defossez"
+title: "John Booh"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "emmanuel-defossez"
+- "booh_john"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: EMI Initiator
+role: EMI Supporter
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +66,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - DBGI Consortium
-  - EMI Initiators
+  - EMI Supporters
 ---
