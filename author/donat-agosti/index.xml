@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donat Agosti | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/donat-agosti/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/donat-agosti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Donat Agosti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/media/icon_hu04ef3e4a5829f57c59f646af00413f80_604010_512x512_fill_lanczos_center_3.png</url>
+      <title>Donat Agosti</title>
+      <link>https://www.earthmetabolome.org/author/donat-agosti/</link>
+    </image>
+    
+  </channel>
+</rss>
