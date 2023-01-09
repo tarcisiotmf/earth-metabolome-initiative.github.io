@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: EMI Supporter
+role: DBGI Advisor
 
 # Organizations/Affiliations
 organizations:
@@ -66,5 +66,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - EMI Supporters
+  - EMI Contributors
 ---
