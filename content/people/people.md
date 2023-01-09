@@ -22,7 +22,10 @@ content:
     # - Administration
     # - Visitors
     # - Alumni
-    - DBGI Consortium
+    # - DBGI Consortium
+    - EMI Initiators
+    - EMI Contributors
+    - EMI Supporters
 design:
   show_interests: false
   show_role: true

@@ -68,4 +68,5 @@ highlight_name: false
 user_groups:
   - Researchers
   - DBGI Consortium
+  - EMI Initiators
 ---
