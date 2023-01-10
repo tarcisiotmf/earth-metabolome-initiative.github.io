@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Walker | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/tom-walker/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/tom-walker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tom Walker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/tom-walker/avatar_hu241583aebd940d9ed20cae76faf2c11d_65790_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Tom Walker</title>
+      <link>https://www.earthmetabolome.org/author/tom-walker/</link>
+    </image>
+    
+  </channel>
+</rss>
