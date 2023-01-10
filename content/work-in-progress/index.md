@@ -1,6 +1,6 @@
 ---
 title: What are we working on now ?
-summary: Here we share what we are working on in the frame of the DBGI
+summary: Here we share what we are working on in the frame of the EMI
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
