@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Thomas Walker"
+title: "Katia Gindro"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "thomas-walker"
+- "gindro_katia"
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: EMI Initiator
+role: EMI Supporter
 
 # Organizations/Affiliations
 organizations:
@@ -66,6 +66,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- DBGI Consortium
-- EMI Initiators
+- EMI Supporters
 ---

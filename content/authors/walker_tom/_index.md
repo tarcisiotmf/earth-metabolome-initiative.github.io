@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Meredith (Merry) Schumann"
+title: "Tom Walker"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "schumann_meredith"
+- "tom-walker"
 
 # Is this the primary user of the site?
 superuser: false
@@ -66,6 +66,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- DBGI Consortium
 - EMI Initiators
-
 ---
