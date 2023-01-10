@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rob Knight | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/rob-knight/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/rob-knight/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rob Knight</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/rob-knight/avatar_hu18f22e5a77b269554005721123749eac_5099_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Rob Knight</title>
+      <link>https://www.earthmetabolome.org/author/rob-knight/</link>
+    </image>
+    
+  </channel>
+</rss>
