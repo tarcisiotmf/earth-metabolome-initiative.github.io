@@ -14,7 +14,7 @@ header:
   image: ""
 ---
 
-At the moment we are launching the Earth Metabolome initiative.
+At the moment we are launching the Earth Metabolome Initiative.
 
 - We have started gathering a consortium of supporting researchers see [EMI Consortium]({{< relref "/people/people" >}})
 - We apply to funding opportunities
