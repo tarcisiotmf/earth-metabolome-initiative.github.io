@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Hoyt | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/charles-hoyt/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/charles-hoyt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Hoyt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/charles-hoyt/avatar_hu96d563ce69e6e0914b261c7886ede9de_183688_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Charles Hoyt</title>
+      <link>https://www.earthmetabolome.org/author/charles-hoyt/</link>
+    </image>
+    
+  </channel>
+</rss>
