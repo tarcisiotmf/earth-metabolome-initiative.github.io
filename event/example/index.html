@@ -244,6 +244,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NT0DTRY6P3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-NT0DTRY6P3', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -288,9 +327,6 @@
     
   
   <meta property="twitter:card" content="summary_large_image" />
-  
-    <meta property="twitter:site" content="@allard_pm" />
-    <meta property="twitter:creator" content="@allard_pm" />
   
   <meta property="og:site_name" content="The Earth Metabolome Initiative" />
   <meta property="og:url" content="https://www.earthmetabolome.org/event/example/" />
@@ -999,16 +1035,18 @@
   
   
   
+    
+  
   
   
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/alan-bridge/"><img class="avatar mr-3 avatar-circle" src="/author/alan-bridge/avatar_hu355c125fc88372c30e6e189ebab6fffa_56869_270x270_fill_q75_lanczos_center.jpeg" alt="Alan Bridge"></a>
+      <a href="https://www.earthmetabolome.org"><img class="avatar mr-3 avatar-circle" src="/author/alan-bridge/avatar_hu355c125fc88372c30e6e189ebab6fffa_56869_270x270_fill_q75_lanczos_center.jpeg" alt="Alan Bridge"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/author/alan-bridge/">Alan Bridge</a></h5>
+      <h5 class="card-title"><a href="https://www.earthmetabolome.org">Alan Bridge</a></h5>
       <h6 class="card-subtitle">EMI Supporter</h6>
       
       <ul class="network-icon" aria-hidden="true">
