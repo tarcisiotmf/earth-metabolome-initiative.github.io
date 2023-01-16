@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jörn Piel | The Earth Metabolome Initiative</title>
+    <link>https://www.earthmetabolome.org/author/jorn-piel/</link>
+      <atom:link href="https://www.earthmetabolome.org/author/jorn-piel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jörn Piel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.earthmetabolome.org/author/jorn-piel/avatar_hu3ea7b9f63facdeb496358b52713f3099_8772_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jörn Piel</title>
+      <link>https://www.earthmetabolome.org/author/jorn-piel/</link>
+    </image>
+    
+  </channel>
+</rss>
