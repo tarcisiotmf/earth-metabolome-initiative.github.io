@@ -29,13 +29,13 @@ interests:
 - remote sensing
 
 education:
-  - Dr. rer. nat., magna cum laude, Otto Hahn medal of the Max Planck Society
+  - course: Dr. rer. nat., magna cum laude, Otto Hahn medal of the Max Planck Society
     institution: Friedrich Schiller University, research at Max Planck Institute for Chemical Ecology, Jena, Germany
     year: 2012
-  - Fulbright scholarship for post-baccalaureate research
+  - course: Fulbright scholarship for post-baccalaureate research
     institution: Max Planck Institute for Chemical Ecology, Jena, Germany
     year: 2005
-  - B.Sc., comprehensive honors, molecular biology and philosophy double major 
+  - course: B.Sc., comprehensive honors, molecular biology and philosophy double major 
     institution: University of Wisconsin-Madison with study abroad at University of Warwick, UK
     year: 2005
 
