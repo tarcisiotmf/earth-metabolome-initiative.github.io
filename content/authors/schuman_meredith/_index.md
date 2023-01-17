@@ -14,25 +14,30 @@ role: EMI Initiator
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: University of Zurich
+  url: "https://www.geo.uzh.ch/en/units/sg.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- plant interactions
+- chemical ecology
+- genetics
+- biodiversity
+- remote sensing
 
 education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
+  - Dr. rer. nat., magna cum laude, Otto Hahn medal of the Max Planck Society
+    institution: Friedrich Schiller University, research at Max Planck Institute for Chemical Ecology, Jena, Germany
     year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - Fulbright scholarship for post-baccalaureate research
+    institution: Max Planck Institute for Chemical Ecology, Jena, Germany
+    year: 2005
+  - B.Sc., comprehensive honors, molecular biology and philosophy double major 
+    institution: University of Wisconsin-Madison with study abroad at University of Warwick, UK
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -48,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/mschuman1
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
