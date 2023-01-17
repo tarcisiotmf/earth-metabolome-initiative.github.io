@@ -6,18 +6,18 @@ https://www.earthmetabolome.org/
 
 ### Do you have a Github account ?
 
-- Yes : Go to [Contribute after login to Github]
-- No : Go to [Do you want to create a Github account ?]
+- Yes : Go to [Contribute after login to Github](#contribute-after-login-to-github)
+- No : Go to [Do you want to create a Github account ?](#do-you-want-to-create-a-github-account)
 
 ### Do you want to create a Github account ?
 
-- Yes : Go to [Create a Github account]
-- No : Go to [Contact us directly]
+- Yes : Go to [Create a Github account](#create-a-github-account)
+- No : Go to [Contact us directly](#contact-us-directly)
 
 ### Create a Github account 
 
 Go there https://github.com/signup and follow instructions.
-You can then move to [Contribute after login to Github]
+You can then move to [Contribute after login to Github](#contribute-after-login-to-github)
 
 ### Contribute after login to Github
 
