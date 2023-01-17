@@ -18,8 +18,7 @@ organizations:
   url: https://hms.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: |
-	Dr. Charles Tapley Hoyt is a Postdoctoral Research Fellow in the Laboratory of Systems Pharmacology at Harvard Medical School based out of Germany. He received his Ph.D. in Computational Life Sciences from the University of Bonn. His research interests cover the interface of biocuration, knowledge graphs, and machine learning with systems biology, networks biology, and drug discovery. He is an advocate of open source software, reproducibility, and open science. His open source projects such as PyBEL and PyKEEN are used by several academic and industrial groups.
+bio: 
 
 interests:
 - Bioinformatics
@@ -77,3 +76,5 @@ highlight_name: false
 user_groups:
 - EMI Supporters
 ---
+
+Dr. Charles Tapley Hoyt is a Postdoctoral Research Fellow in the Laboratory of Systems Pharmacology at Harvard Medical School based out of Germany. He received his Ph.D. in Computational Life Sciences from the University of Bonn. His research interests cover the interface of biocuration, knowledge graphs, and machine learning with systems biology, networks biology, and drug discovery. He is an advocate of open source software, reproducibility, and open science. His open source projects such as PyBEL and PyKEEN are used by several academic and industrial groups.
