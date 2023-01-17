@@ -45,7 +45,8 @@ cd earth-metabolome-initiative.github.io
 ```
 
 Run hugo from the root directory.
-You might need to install [hugo](https://gohugo.io/) first. See instructions here https://gohugo.io/installation/
+You will need to have [hugo](https://gohugo.io/) installed first. See instructions here https://gohugo.io/installation/
+Alternatively you can install using the following [Docker](https://www.docker.com/) command `docker pull klakegg/hugo`.
 
 ```
 hugo server
