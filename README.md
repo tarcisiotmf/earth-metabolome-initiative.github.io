@@ -45,12 +45,25 @@ cd earth-metabolome-initiative.github.io
 ```
 
 Run hugo from the root directory.
-You will need to have [hugo](https://gohugo.io/) installed first. See instructions here https://gohugo.io/installation/
-Alternatively you can install using the following [Docker](https://www.docker.com/) command `docker pull klakegg/hugo`.
+You will need to have [hugo](https://gohugo.io/) installed first. 
+You can install it directly in your system, see instructions here https://gohugo.io/installation/
+
+Then you can directly run the hugo server by:
 
 ```
 hugo server
 ```
 
-This should serve the website locally at http://localhost:1313/
+Alternatively you can install using the following [Docker](https://www.docker.com/) image https://hub.docker.com/r/klakegg/hugo and run the server using the following command
+
+```
+docker run --rm -it \
+  -v $(pwd):/src \
+  -p 1313:1313 \
+  klakegg/hugo:0.101.0-ext-ubuntu \
+  server
+```
+
+Both options (local install or docker) should serve the website locally at http://localhost:1313/
+
 
