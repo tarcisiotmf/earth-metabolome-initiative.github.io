@@ -18,7 +18,8 @@ organizations:
   url: "https://www.geo.uzh.ch/en/units/sg.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
+Merry is Assistant Professor for [Spatial Genetics](https://www.geo.uzh.ch/en/units/sg.html) in the Departments of Geography and Chemistry, University of Zurich. Merry and the Spatial Genetics group investigate patterns of plant genetic diversity to know how plants interact with and function in their environments under global change. They work on projects combining direct analyses of plant tissue, and remote sensing techniques with the aim of developing approaches to assess genetic and chemotypic variation, plasticity, and adaptive potential within plant species, and their interactions.
 
 # List each interest with a dash
 interests:
@@ -30,13 +31,13 @@ interests:
 
 education:
   courses:
-  - course: Dr. rer. nat., magna cum laude, Otto Hahn medal of the Max Planck Society
-    institution: Friedrich Schiller University, research at Max Planck Institute for Chemical Ecology, Jena, Germany
+  - course: Dr. rer. nat.
+    institution: Friedrich Schiller University, Faculty of Biology and Pharmacy, research at Max Planck Institute for Chemical Ecology, Jena, Germany
     year: 2012
   - course: Fulbright scholarship for post-baccalaureate research
     institution: Max Planck Institute for Chemical Ecology, Jena, Germany
     year: 2005
-  - course: B.Sc., comprehensive honors, molecular biology and philosophy double major 
+  - course: B.Sc., molecular biology and philosophy double major 
     institution: University of Wisconsin-Madison with study abroad at University of Warwick, UK
     year: 2005
 
