@@ -82,8 +82,6 @@
   <url>
     <loc>https://www.earthmetabolome.org/contact/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://www.earthmetabolome.org/people/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://www.earthmetabolome.org/about/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://www.earthmetabolome.org/author/alan-bridge/</loc><changefreq>weekly</changefreq></url>
@@ -201,6 +199,8 @@
     <loc>https://www.earthmetabolome.org/author/marnix-medema/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://www.earthmetabolome.org/author/massuo-kato/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://www.earthmetabolome.org/people/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://www.earthmetabolome.org/author/mehdi-beniddir/</loc><changefreq>weekly</changefreq></url>
   <url>
