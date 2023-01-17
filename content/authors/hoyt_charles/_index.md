@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Charles Hoyt"
+title: "Charles Tapley Hoyt"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -14,25 +14,27 @@ role: EMI Supporter
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Harvard Medical School
+  url: https://hms.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Bioinformatics
+- Cheminformatics
+- Systems Biology
+- Machine Learning
+- Drug Discovery
 
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+# education:
+#  courses:
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,14 +43,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:cthoyt@gmail.com'
 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=PjrpzUIAAAAJ
+
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/cthoyt
+  
+
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-4423-4370
+  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: cthoyt@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
