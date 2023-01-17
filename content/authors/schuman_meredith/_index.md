@@ -29,6 +29,7 @@ interests:
 - remote sensing
 
 education:
+  courses:
   - course: Dr. rer. nat., magna cum laude, Otto Hahn medal of the Max Planck Society
     institution: Friedrich Schiller University, research at Max Planck Institute for Chemical Ecology, Jena, Germany
     year: 2012
